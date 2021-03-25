@@ -1,0 +1,11 @@
+D:\kube\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.csproj.CoreCompileInputs.cache
+D:\kube\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.AssemblyInfoInputs.cache
+D:\kube\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.AssemblyInfo.cs
+D:\kube\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.deps.json
+D:\kube\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.runtimeconfig.json
+D:\kube\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.runtimeconfig.dev.json
+D:\kube\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.dll
+D:\kube\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.pdb
+D:\kube\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.csprojAssemblyReference.cache
+D:\kube\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.dll
+D:\kube\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.pdb
